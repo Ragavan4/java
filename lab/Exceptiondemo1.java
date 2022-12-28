@@ -1,5 +1,3 @@
-//wrp to demo Exception demo
-//Mnaovadhana M CG BATCH 2576
 import java.util.*;
 public class Exceptiondemo1
 {

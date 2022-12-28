@@ -1,5 +1,3 @@
-//wrp to demo Encapsulation using private members
-//Manovadhana M CG BATCH 2576
 class EncapsulationDemo
 {
 	private int ssn;
